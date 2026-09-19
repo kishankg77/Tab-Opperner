@@ -1,0 +1,6 @@
+{
+  "name": "Multi-Tab Opener",
+  "description": "Paste any URL link to open multiple new tabs with customizable tab limit settings and popup controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
